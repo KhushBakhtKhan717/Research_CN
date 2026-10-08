@@ -1,0 +1,5 @@
+body { background: #f4f6f9; }
+.table td, .table th { white-space: nowrap; }
+.table td.title-cell { white-space: normal; min-width: 220px; }
+.detail-label { font-weight: 600; color: #555; }
+#alertBox { position: sticky; top: 8px; z-index: 1080; }
